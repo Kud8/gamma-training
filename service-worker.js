@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/gamma-training/precache-manifest.3761c74e7efa0b238a9dad034d7dc266.js"
+  "/gamma-training/precache-manifest.b13c0becb171185aa0b1abbbc23028c9.js"
 );
 
 workbox.clientsClaim();

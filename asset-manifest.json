@@ -1,14 +1,15 @@
 {
-  "main.css": "/gamma-training/static/css/main.070a257a.chunk.css",
-  "main.js": "/gamma-training/static/js/main.135f0cdf.chunk.js",
-  "main.js.map": "/gamma-training/static/js/main.135f0cdf.chunk.js.map",
+  "main.css": "/gamma-training/static/css/main.299e6171.chunk.css",
+  "main.js": "/gamma-training/static/js/main.4839267b.chunk.js",
+  "main.js.map": "/gamma-training/static/js/main.4839267b.chunk.js.map",
   "runtime~main.js": "/gamma-training/static/js/runtime~main.6b9e2c5a.js",
   "runtime~main.js.map": "/gamma-training/static/js/runtime~main.6b9e2c5a.js.map",
-  "static/js/2.5bf9b2cd.chunk.js": "/gamma-training/static/js/2.5bf9b2cd.chunk.js",
-  "static/js/2.5bf9b2cd.chunk.js.map": "/gamma-training/static/js/2.5bf9b2cd.chunk.js.map",
+  "static/css/2.c207ca02.chunk.css": "/gamma-training/static/css/2.c207ca02.chunk.css",
+  "static/js/2.9a1bf566.chunk.js": "/gamma-training/static/js/2.9a1bf566.chunk.js",
+  "static/js/2.9a1bf566.chunk.js.map": "/gamma-training/static/js/2.9a1bf566.chunk.js.map",
   "index.html": "/gamma-training/index.html",
-  "precache-manifest.3761c74e7efa0b238a9dad034d7dc266.js": "/gamma-training/precache-manifest.3761c74e7efa0b238a9dad034d7dc266.js",
+  "precache-manifest.b13c0becb171185aa0b1abbbc23028c9.js": "/gamma-training/precache-manifest.b13c0becb171185aa0b1abbbc23028c9.js",
   "service-worker.js": "/gamma-training/service-worker.js",
-  "static/css/main.070a257a.chunk.css.map": "/gamma-training/static/css/main.070a257a.chunk.css.map",
-  "static/media/logo.svg": "/gamma-training/static/media/logo.5d5d9eef.svg"
+  "static/css/2.c207ca02.chunk.css.map": "/gamma-training/static/css/2.c207ca02.chunk.css.map",
+  "static/css/main.299e6171.chunk.css.map": "/gamma-training/static/css/main.299e6171.chunk.css.map"
 }
